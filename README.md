@@ -2,9 +2,9 @@
 ### Hi there, nice to meet you 👋
 
 :technologist: Quantum & ML Enthusiast @ IBM | Physics & Philosophy Graduate | Studying AI Ethics and Society @ University of Cambridge.
-✉️ Reach me via email: zinaefc@gmail.com
+✉ Reach me via email: zinaefc@gmail.com
 
-✉Take care and stay curious!
+Take care and stay curious! :)
 <!--
 **zinaefchary/zinaefchary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
