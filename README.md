@@ -2,7 +2,7 @@
 ### Hi there, nice to meet you 👋
 
 :technologist: Quantum & ML Enthusiast @ IBM | Physics & Philosophy Graduate | Studying AI Ethics and Society @ University of Cambridge.
-✉ Reach me via email: zinaefc@gmail.com
+✉Reach me via email: zinaefc@gmail.com
 
 Take care and stay curious! :)
 <!--
