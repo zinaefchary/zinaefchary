@@ -1,5 +1,5 @@
 ## Zina Efchary
-### Hi there, nice to meet you 👋
+Hi there, nice to meet you 👋
 
 :technologist: Quantum & ML Enthusiast @ IBM | Physics & Philosophy Graduate | Studying AI Ethics and Society @ University of Cambridge.
 
