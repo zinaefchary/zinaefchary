@@ -1,11 +1,15 @@
 ## Zina Efchary
 Hi there, nice to meet you 👋
 
-:technologist: Quantum & ML Enthusiast @ IBM | Physics & Philosophy Graduate | Studying AI Ethics and Society @ University of Cambridge.
+🧠 Building [Myranda](https://myranda.ai/)) to protect the cognitive health of young adults in a noisy AI world and counter gradual disempowerment
 
-✉ Reach me via email: zinaefc@gmail.com
+🌍 Evaluating AI capabilities and mapping them to risk and societal impact @ OECD 
 
-Take care and stay curious! :)
+🔍 AI safety, explainable AI and mechanistic interpretability
+
+✉️ zinaefc@gmail.com · [LinkedIn](https://www.linkedin.com/in/zina-efchary/)
+
+Stay curious :)
 <!--
 **zinaefchary/zinaefchary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
