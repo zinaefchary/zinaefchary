@@ -1,7 +1,7 @@
 ## Zina Efchary
 Hi there, nice to meet you 👋
 
-🧠 Building [Myranda](https://myranda.ai/)) to protect the cognitive health of young adults in a noisy AI world and counter gradual disempowerment
+🧠 Building [Myranda]((https://myranda.ai/)) to protect the cognitive health of young adults in a noisy AI world and counter gradual disempowerment
 
 🌍 Evaluating AI capabilities and mapping them to risk and societal impact @ OECD 
 
