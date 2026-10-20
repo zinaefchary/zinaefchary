@@ -1,11 +1,13 @@
 ## Zina Efchary
 Hi there, nice to meet you 👋
 
+Some things about me:
+
 🧠 Building [Myranda](https://myranda.ai/) to protect the cognitive health of young adults in a noisy AI world and counter gradual disempowerment
 
 🌍 Evaluating AI capabilities and mapping them to risk and societal impact @ OECD 
 
-🔍 AI safety, explainable AI and mechanistic interpretability
+🔍 Main focus areas: AI safety, explainable AI, on-device AI, federated learning and mechanistic interpretability
 
 ✉️ zinaefc@gmail.com · [LinkedIn](https://www.linkedin.com/in/zina-efchary/)
 
